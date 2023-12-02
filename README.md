@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buen0024&label=Profile%20views&color=0e75b6&style=flat" alt="buen0024" /> </p>
 
-- 🔭 I’m currently working on [a single page web app using JAMStack API's](https://github.com/buen0024/buenaseda_janineAnn_hybridFetch)
+- 🔭 I’m currently working on [a single page web app using JAMStack API's](https://github.com/buen0024/buenaseda_janineAnn_finalProjectSPA)
 
 - 🌱 I’m currently learning **Front-end Web Development**
 
