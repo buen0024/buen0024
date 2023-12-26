@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janine Ann</h1>
-<h3 align="center">A passionate Mobile App Design and Dev Student from Ottawa, CA</h3>
+<h3 align="center">A passionate Mobile Application Development Student from Ottawa, CA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buen0024&label=Profile%20views&color=0e75b6&style=flat" alt="buen0024" /> </p>
 
