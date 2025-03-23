@@ -85,7 +85,6 @@ I'm always open to collaborating on interesting projects or discussing technolog
 - 📧 Email: japbuenas@gmail.com
 - 💼 LinkedIn: [janine-ann-buenaseda](https://www.linkedin.com/in/janine-ann-buenaseda-965684299/)
 - 🌐 Portfolio: [janinebuenaseda.dev](https://janinebuenaseda.dev)
-- 💻 GitHub: [buen0024](https://github.com/buen0024)
 
 ---
 
