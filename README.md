@@ -1,11 +1,5 @@
 # Janine Ann Buenaseda
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/janine-ann-buenaseda-965684299/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:japbuenas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=safari)](https://janinebuenaseda.dev)
-
-## About Me
-
 I'm a **Mobile Application Developer** with experience in frontend and iOS development. Based in Ottawa, Canada, I specialize in building responsive web applications and mobile solutions with a focus on user experience and performance optimization.
 
 ## Skills
