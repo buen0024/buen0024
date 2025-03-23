@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/janine-ann-buenaseda-965684299/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:japbuenas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=safari)](https://janinebuenaseda.dev)
 
 ## About Me
 
@@ -83,7 +84,8 @@ I'm always open to collaborating on interesting projects or discussing technolog
 
 - 📧 Email: japbuenas@gmail.com
 - 💼 LinkedIn: [janine-ann-buenaseda](https://www.linkedin.com/in/janine-ann-buenaseda-965684299/)
-- 🌐 GitHub: [buen0024](https://github.com/buen0024)
+- 🌐 Portfolio: [janinebuenaseda.dev](https://janinebuenaseda.dev)
+- 💻 GitHub: [buen0024](https://github.com/buen0024)
 
 ---
 
