@@ -18,9 +18,17 @@ I'm a **Mobile Application Developer** with experience in frontend and iOS devel
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 ### Mobile Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### Tools & Technologies
@@ -61,11 +69,12 @@ A single-page web application for searching, viewing, and saving images with int
 
 ## Current Focus
 
-I'm currently working on expanding my frontend development skills, with a particular interest in:
+I'm currently working on expanding my full-stack development skills, with a particular interest in:
 
 - Building performant PWAs with offline capabilities
 - Creating accessible user interfaces with React and Next.js
-- Developing native-like experiences on mobile devices
+- Backend development with Node.js, Express.js, and MongoDB
+- Cross-platform mobile development with React Native and Flutter
 - Exploring AI integration in web and mobile applications
 
 ## Let's Connect
